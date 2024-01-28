@@ -12,5 +12,6 @@
 | Paragráfos e Quebras | [Arquivo Guia](./exercicios.002/README.md) |[Arquivo HTML](./exercicios.002/index.html) |
 | Simbolos e Emojis | [Arquivo Guia](./exercicios.003/README.md) | [Arquivo HTML](./exercicios.003/index.html) |
 | Imagem e Seus Direitos | [Arquivo Guia](./exercicios.004/README.md) | [Arquivo HTML](./exercicios.004/index.html) |
+| Formatos de Imagens | [Arquivo Guia](./exercicios.005/README.md) | [Arquivo HTML](./README.md) |
 
 ---
