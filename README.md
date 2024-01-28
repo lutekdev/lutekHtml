@@ -4,7 +4,7 @@
 
 ---
 
-# Sumário
+# Sumário Completo
 
 | Titulos | GUIA |.HTML |
 |---------|-------|-------|
