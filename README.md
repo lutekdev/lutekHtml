@@ -14,5 +14,6 @@
 | Imagem e Seus Direitos | [Arquivo Guia](./exercicios.004/README.md) | [Arquivo HTML](./exercicios.004/index.html) |
 | Formatos de Imagens | [Arquivo Guia](./exercicios.005/README.md) | [Arquivo HTML](./README.md) |
 | Tamanho das Imagens | [Arquivo Guia](./exercicios.006/README.md) | [Arquivo HTML](./README.md) |
+| HTML Com Imagens | [Arquivo Guia](./exercicios.006/README.md) | [Arquivo HTML](exercicios.007/index.html) |
 
 ---
