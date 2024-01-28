@@ -8,8 +8,8 @@
 
 | Titulos | GUIA |.HTML |
 |---------|-------|-------|
-| Primeiro Arquivo HTML | [ARQUIVO GUIA](./exercicios.001/README.md) | [Arquivo HTML](./exercicios.001/index.html) |
-| Paragráfos e Quebras | [ARQUIVO GUIA](./exercicios.002/README.md) |[Arquivo HTML](./exercicios.002/index.html) |
-| Simbolos e Emojis | [ARQUIVO GUIA](./exercicios.003/README.md) | [Arquivo HTML](./exercicios.003/index.html) |
+| Primeiro Arquivo HTML | [Arquivo Guia](./exercicios.001/README.md) | [Arquivo HTML](./exercicios.001/index.html) |
+| Paragráfos e Quebras | [Arquivo Guia](./exercicios.002/README.md) |[Arquivo HTML](./exercicios.002/index.html) |
+| Simbolos e Emojis | [Arquivo Guia](./exercicios.003/README.md) | [Arquivo HTML](./exercicios.003/index.html) |
 
 ---
