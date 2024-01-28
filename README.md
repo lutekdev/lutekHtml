@@ -6,6 +6,5 @@
 
 | Titulos | .HTML |
 |---------|-------|
-| Primeiro Arquivo HTML         |  [Arquivo HTML](http://tinyurl.com/ttbz66r3)     |
-|         |       |
-|         |       |
+| Primeiro Arquivo HTML |  [Arquivo HTML](http://tinyurl.com/ttbz66r3) |
+|                       |                                              |
