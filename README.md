@@ -17,5 +17,8 @@
 | HTML Com Imagens       | [Arquivo Guia](./html.AULAS/aula.007/README.md) | [Arquivo HTML](./html.AULAS/aula.007/index.html) |
 | Favicon no HTML        | [Arquivo Guia](./html.AULAS/aula.008/README.md) | [Arquivo HTML](./html.AULAS/aula.008/index.html) |
 | Hierarquia de Titulos  | [Arquivo Guia](./html.AULAS/aula.009/README.md) | [Arquivo HTML](./html.AULAS/aula.009/index.html) |
+| Semântica na HTML5     | [Arquivo Guia](#)                               | [Arquivo HTML](#)                                |
+| Negrito e Itálico      | [Arquivo Guia](./html.AULAS/aula.011/README.md) | [Arquivo HTML](./html.AULAS/aula.011/index.html) |
+| Formtações Adicionais  | [Arquivo Guia](./html.AULAS/aula.012/README.md) | [Arquivo HTML](./html.AULAS/aula.012/index.html) |
 
 ---
