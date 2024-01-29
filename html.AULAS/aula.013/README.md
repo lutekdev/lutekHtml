@@ -35,6 +35,6 @@ print("Fim do programa")
 ### ABREVIAÇÕES
 - __&lt;abbr&gt;__
   - <abbr title="Hypertext Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>
-        sao as duas versões do Liguagem de Marcacão de Hipertexto.
+        são as duas versões do Liguagem de Marcacão de Hipertexto.
 
 ---
