@@ -16,5 +16,6 @@
 | Tamanho das Imagens    | [Arquivo Guia](./html.AULAS/aula.006/README.md) | [Arquivo HTML](#)                                |
 | HTML Com Imagens       | [Arquivo Guia](./html.AULAS/aula.007/README.md) | [Arquivo HTML](./html.AULAS/aula.007/index.html) |
 | Favicon no HTML        | [Arquivo Guia](./html.AULAS/aula.008/README.md) | [Arquivo HTML](./html.AULAS/aula.008/index.html) |
+| Hierarquia de Titulos  | [Arquivo Guia](./html.AULAS/aula.009/README.md) | [Arquivo HTML](./html.AULAS/aula.009/index.html) |
 
 ---

@@ -1,0 +1,2 @@
+# Hierarquia De Titulos
+- Nessa aula foi lecionado mais sobre a sêmantica e suas funcionalidades, manter o HTML estruturado e com sêmantica é a forma mais profissional não só para quem vai visualizar mas até para o proprio desenvolvedor, pois ajuda a futuras manutenções, foi falado também que as tags &lt;h*&gt; vão até 6, reelembrando que pode sim usar mais de um &lt;h1&gt; varias vezes.
