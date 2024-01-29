@@ -10,7 +10,7 @@
   <li>Repetir</li>
 </ol>
 
-  - __Destruturada__:
+  - __Destruturada__
 <ol start="0">
   <li>Comer</li>
   <li>Dormir</li>
@@ -18,7 +18,7 @@
   <li>Repetir</li>
 </ol>
 
-  - __Bagunçada__:
+  - __Bagunçada__
 <ol start="5">
   <li>Comer</li>
   <li>Dormir</li>
@@ -26,7 +26,7 @@
   <li>Repetir</li>
 </ol>
 
-  - __Modificada (A)__:
+  - Type: __A__
 <ol type="A">
   <li>Comer</li>
   <li>Dormir</li>
@@ -34,7 +34,7 @@
   <li>Repetir</li>
 </ol>
 
-  - __Modificada (I)__:
+  - Type __I__
 <ol type="I">
   <li>Comer</li>
   <li>Dormir</li>
@@ -45,7 +45,8 @@
 ---
 
 ### LISTAS NÃO ORDENADAS
-- Disc
+- Type: __DISC__
+
 <ul type="disc">
   <li>Pão</li>
   <li>Leite</li>
@@ -55,7 +56,7 @@
   <li>Feijão</li>
 </ul>
 
-- Circle
+- Type: __CIRCLE__
 <ul type="circle">
   <li>Pão</li>
   <li>Leite</li>
@@ -65,7 +66,7 @@
   <li>Feijão</li>
 </ul>  
 
-- Squared
+- Type: __SQUARE__
 <ul type="square">
   <li>Pão</li>
   <li>Leite</li>
