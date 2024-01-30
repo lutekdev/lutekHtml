@@ -27,4 +27,10 @@
 | Links Internos            | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.017/index.html) |
 | Links para Downloads      | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.018/index.html) |
 
+
+# Sumário Completo de Exercicios
+| Titulos | GUIA              | .HTML             |
+| ------- | ----------------- | ----------------- |
+|         | [Arquivo Guia](#) | [Arquivo HTML](#) |
+
 ---
