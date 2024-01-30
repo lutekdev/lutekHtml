@@ -29,8 +29,9 @@
 
 
 # Sumário Completo de Exercicios
-| Titulos | GUIA              | .HTML             |
-| ------- | ----------------- | ----------------- |
-|         | [Arquivo Guia](#) | [Arquivo HTML](#) |
+| Titulos                          | GUIA              | .HTML                                     |
+| -------------------------------- | ----------------- | ----------------------------------------- |
+| Ex001 - Criando um HTML - Social | [Arquivo Guia](#) | [Arquivo HTML](html.EX/ex.001/index.html) |
+| Ex002 - Tags Html                | [Arquivo Guia](#) | [Arquivo HTML](html.EX/ex.002/index.html) |
 
 ---
