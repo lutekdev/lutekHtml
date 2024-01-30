@@ -3,9 +3,9 @@
 <ol>
         <li>Antigas:</li>
         <ol type="a">
-            <li>JavaScript</li>
-            <li>PHP</li>
-            <li>Java</li>
+        <li>JavaScript</li>
+        <li>PHP</li>
+        <li>Java</li>
         </ol>
         <li>Novas:</li>
         <ol type="a" start="4">
