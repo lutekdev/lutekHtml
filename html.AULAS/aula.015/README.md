@@ -2,13 +2,13 @@
 
 <ol>
         <li>Antigas:</li>
-        <ol type="a">
+        <ol type="A">
         <li>JavaScript</li>
         <li>PHP</li>
         <li>Java</li>
         </ol>
         <li>Novas:</li>
-        <ol type="a" start="4">
+        <ol type="A" start="4">
             <li>Python</li>
             <li>C#</li>
             <li>C++</li>
