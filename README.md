@@ -26,6 +26,7 @@
 | Links e Âncoras em HTML5  | [Arquivo Guia](html.AULAS/aula.016/README.md) | [Arquivo HTML](html.AULAS/aula.016/index.html) |
 | Links Internos            | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.017/index.html) |
 | Links para Downloads      | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.018/index.html) |
+| Imagens Dinâmicas         | [Arquivo Guia](#)                             | [Arquivo HTML](#)                              |
 
 
 # Sumário Completo de Exercicios
