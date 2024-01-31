@@ -28,6 +28,7 @@
 | Links para Downloads            | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.018/index.html) |
 | Imagens Dinâmicas               | [Arquivo Guia](#)                             | [Arquivo HTML](#)                              |
 | Imagens Que Se Adaptam Sozinhas | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.020/index.html) |
+| Colocando Áudio no Site         | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.021/index.html) |
 
 
 # Sumário Completo de Exercicios
