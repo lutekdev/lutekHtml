@@ -19,7 +19,7 @@
 | Hierarquia de Titulos           | [Arquivo Guia](html.AULAS/aula.009/README.md) | [Arquivo HTML](html.AULAS/aula.009/index.html) |
 | Semântica na HTML5              | [Arquivo Guia](#)                             | [Arquivo HTML](#)                              |
 | Negrito e Itálico               | [Arquivo Guia](html.AULAS/aula.011/README.md) | [Arquivo HTML](html.AULAS/aula.011/index.html) |
-| Formtações Adicionais           | [Arquivo Guia](html.AULAS/aula.012/README.md) | [Arquivo HTML](html.AULAS/aula.012/index.html) |
+| Formatações Adicionais          | [Arquivo Guia](html.AULAS/aula.012/README.md) | [Arquivo HTML](html.AULAS/aula.012/index.html) |
 | Citações e Códigos              | [Arquivo Guia](html.AULAS/aula.013/README.md) | [Arquivo HTML](html.AULAS/aula.013/index.html) |
 | Listas OL e UL                  | [Arquivo Guia](html.AULAS/aula.014/README.md) | [Arquivo HTML](html.AULAS/aula.014/index.html) |
 | Lista Mistas e Definições       | [Arquivo Guia](html.AULAS/aula.015/README.md) | [Arquivo HTML](html.AULAS/aula.015/index.html) |
