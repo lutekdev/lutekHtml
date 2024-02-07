@@ -5,10 +5,10 @@
 ---
 
 # Dicas e Avisos
-| Clique Para Visualizar               |
-| ------------------------------------ |
-| [Avisos HTML](html.AVISOS/README.md) |
-| [Dicas HTML](html.DICAS/README.md)   |
+| Clique Para Visualizar                      |
+| ------------------------------------------- |
+| [Avisos Para O HTML](html.AVISOS/README.md) |
+| [Dicas Para O HTML](html.DICAS/README.md)   |
 
 # Sumário Completo das Aulas
 
