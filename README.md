@@ -38,6 +38,10 @@
 | Colocando Vídeo no Site         | [Arquivo Guia](html.AULAS/aula.022/README.md) | [Arquivo HTML](html.AULAS/aula.022/index.html) |
 | Vídeos em Hospedagem Própria    | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.023/index.html) |
 
+| Titulos            | GUIA              | .HTML                                         | .CSS             |
+| ------------------ | ----------------- | --------------------------------------------- | ---------------- |
+| Estilos CSS Inline | [Arquivo Guia](#) | [Arquivo HTML](css.AULAS/aula.001/index.html) | [Arquivo CSS](#) |
+
 
 # Sumário Completo de Exercicios
 | Titulos                          | GUIA              | .HTML                                     |
