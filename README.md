@@ -30,6 +30,7 @@
 | Imagens Que Se Adaptam Sozinhas | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.020/index.html) |
 | Colocando Áudio no Site         | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.021/index.html) |
 | Colocando Vídeo no Site         | [Arquivo Guia](html.AULAS/aula.022/README.md) | [Arquivo HTML](html.AULAS/aula.022/index.html) |
+| Vídeos em Hospedagem Própria    | [Arquivo Guia](#)                             | [Arquivo HTML](html.AULAS/aula.023/index.html) |
 
 
 # Sumário Completo de Exercicios
