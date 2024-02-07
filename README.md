@@ -44,5 +44,6 @@
 | -------------------------------- | ----------------- | ----------------------------------------- |
 | Ex001 - Criando um HTML - Social | [Arquivo Guia](#) | [Arquivo HTML](html.EX/ex.001/index.html) |
 | Ex002 - Tags Html                | [Arquivo Guia](#) | [Arquivo HTML](html.EX/ex.002/index.html) |
+| Ex003 - Site Com Vídeos          | [Arquivo Guia](#) | [Arquivo HTML](html.EX/ex.003/index.html) |
 
 ---
