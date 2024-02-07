@@ -5,7 +5,7 @@
 ---
 
 # Dicas e Avisos
-| README.MD                            |
+| Clique Para Visualizar               |
 | ------------------------------------ |
 | [Avisos HTML](html.AVISOS/README.md) |
 | [Dicas HTML](html.DICAS/README.md)   |
