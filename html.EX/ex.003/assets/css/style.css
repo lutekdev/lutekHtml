@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@100;200;300;400;500;600;700&display=swap);
+
+* {
+    background-color: #06303f;
+    color: white;
+    font-family: 'PT Sans Narrow';
+    flex: auto;
+    text-align: center;
+}
+
+.font_1 {
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.heart {
+    color: red;
+    font-size: 45px;
+}
