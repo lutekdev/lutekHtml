@@ -4,6 +4,12 @@
 
 ---
 
+# Dicas e Avisos
+| README.MD                            |
+| ------------------------------------ |
+| [Avisos HTML](html.AVISOS/README.md) |
+| [Dicas HTML](html.DICAS/README.md)   |
+
 # Sumário Completo das Aulas
 
 | Titulos                         | GUIA                                          | .HTML                                          |
