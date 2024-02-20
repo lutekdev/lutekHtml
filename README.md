@@ -4,19 +4,19 @@
 
 ---
 
-# Dicas e Avisos
+# 🔗 Dicas e Avisos
 | Clique Para Visualizar                      |
 | ------------------------------------------- |
 | [Avisos Para O HTML](html.AVISOS/README.md) |
 | [Dicas Para O HTML](html.DICAS/README.md)   |
 
-# Sumário Completo das Aulas - Matheus Battisti
-| ID  | Titulos               | GUIA             | .HTML            |
-| --- | --------------------- | ---------------- | ---------------- |
-| 001 | Primeiro Arquivo HTML | [Arquivo Guia]() | [Arquivo HTML]() |
+# 📚 Sumário Completo das Aulas - Matheus Battisti
+| ID  | Titulos               | GUIA               | .HTML              |
+| --- | --------------------- | ------------------ | ------------------ |
+| 001 | Primeiro Arquivo HTML | [✘ Arquivo Guia]() | [✓ Arquivo HTML]() |
 
 
-# Sumário Completo das Aulas - Gustavo Guanabara
+# 📚 Sumário Completo das Aulas - Gustavo Guanabara
 | ID  | Titulos                         | GUIA                                          | .HTML                                          |
 | --- | ------------------------------- | --------------------------------------------- | ---------------------------------------------- |
 | 001 | Primeiro Arquivo HTML           | [Arquivo Guia](html.AULAS/aula.001/README.md) | [Arquivo HTML](html.AULAS/aula.001/index.html) |
@@ -43,6 +43,8 @@
 | 022 | Colocando Vídeo no Site         | [Arquivo Guia](html.AULAS/aula.022/README.md) | [Arquivo HTML](html.AULAS/aula.022/index.html) |
 | 023 | Vídeos em Hospedagem Própria    | [Arquivo Guia]()                              | [Arquivo HTML](html.AULAS/aula.023/index.html) |
 
+# ⭐ Sumário Completo de Exercicios - Gustavo Guanabara
+
 | ID  | Titulos              | GUIA                                         | .HTML                                         | .CSS                                                   |
 | --- | -------------------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------------------ |
 | 001 | Estilos CSS Inline   | [Arquivo Guia]()                             | [Arquivo HTML](css.AULAS/aula.001/index.html) | [Arquivo CSS](#)                                       |
@@ -50,7 +52,7 @@
 | 003 | Estilos CSS Externos | [Arquivo Guia](css.AULAS/aula.003/README.md) | [Arquivo HTML](css.AULAS/aula.003/index.html) | [Arquivo CSS](css.AULAS/aula.003/assets/css/style.css) |
 
 
-# Sumário Completo de Exercicios
+# ⭐ Sumário Completo de Exercicios - Gustavo Guanabara
 | ID  | Titulos                          | GUIA             | .HTML                                     |
 | --- | -------------------------------- | ---------------- | ----------------------------------------- |
 | 001 | Ex001 - Criando um HTML - Social | [Arquivo Guia]() | [Arquivo HTML](html.EX/ex.001/index.html) |
