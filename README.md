@@ -11,9 +11,9 @@
 | [Dicas Para O HTML](html.DICAS/README.md)   |
 
 # 📚 Sumário Completo das Aulas - Matheus Battisti
-| ID  | Titulos               | GUIA               | .HTML              |
-| --- | --------------------- | ------------------ | ------------------ |
-| 001 | Primeiro Arquivo HTML | [✘ Arquivo Guia]() | [✓ Arquivo HTML]() |
+| ID  | Titulos                             | GUIA               | .HTML                                                                  |
+| --- | ----------------------------------- | ------------------ | ---------------------------------------------------------------------- |
+| 001 | Criando Nosso Primeiro Arquivo HTML | [✘ Arquivo Guia]() | [✓ Arquivo HTML](html.AULAS/MatheusBattisti.Aulas/aula.001/index.html) |
 
 
 # 📚 Sumário Completo das Aulas - Gustavo Guanabara
