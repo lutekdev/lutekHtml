@@ -20,7 +20,7 @@
 | --- | ----------------- | ------------------ | ------------------------------------------------------------------------------ |
 | 001 | A Sintaxe do Css  | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.001/assets/css/style.css) |
 | 002 | Tipo de Seletores | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.002/assets/css/style.css) |
-| 003 |                   | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.002/assets/css/style.css) |
+| 003 |                   | [✘ Arquivo Guia]() | [✘ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.003/assets/css/style.css) |
 
 
 # 📚 Sumário Completo das Aulas - Gustavo Guanabara
