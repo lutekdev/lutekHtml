@@ -16,9 +16,11 @@
 | 001 | Criando Nosso Primeiro Arquivo HTML | [✘ Arquivo Guia]() | [✓ Arquivo HTML](html.AULAS/MatheusBattisti.Aulas/aula.001/index.html) |
 
 # 📚 Sumário Completo das Aulas - Matheus Battisti
-| ID  | Titulos | GUIA               | .CSS               |
-| --- | ------- | ------------------ | ------------------ |
-| 001 |         | [✘ Arquivo Guia]() | [✓ Arquivo HTML]() |
+| ID  | Titulos           | GUIA               | .CSS                                                                           |
+| --- | ----------------- | ------------------ | ------------------------------------------------------------------------------ |
+| 001 | A Sintaxe do Css  | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.001/assets/css/style.css) |
+| 002 | Tipo de Seletores | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.002/assets/css/style.css) |
+| 003 |                   | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.002/assets/css/style.css) |
 
 
 # 📚 Sumário Completo das Aulas - Gustavo Guanabara
