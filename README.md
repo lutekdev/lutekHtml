@@ -52,8 +52,8 @@
 
 | ID  | Titulos              | GUIA                                           | .HTML                                           | .CSS                                                     |
 | --- | -------------------- | ---------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
-| 001 | Estilos CSS Inline   | [✘ Arquivo Guia]()                             | [✘ Arquivo HTML](css.AULAS/aula.001/index.html) | [✘ Arquivo CSS](#)                                       |
-| 002 | Estilos CSS Internos | [✘ Arquivo Guia]()                             | [✘ Arquivo HTML](css.AULAS/aula.002/index.html) | [✘ Arquivo CSS](#)                                       |
+| 001 | Estilos CSS Inline   | [✘ Arquivo Guia]()                             | [✘ Arquivo HTML](css.AULAS/aula.001/index.html) | [✘ Arquivo CSS]()                                        |
+| 002 | Estilos CSS Internos | [✘ Arquivo Guia]()                             | [✘ Arquivo HTML](css.AULAS/aula.002/index.html) | [✘ Arquivo CSS]()                                        |
 | 003 | Estilos CSS Externos | [✓ Arquivo Guia](css.AULAS/aula.003/README.md) | [✓ Arquivo HTML](css.AULAS/aula.003/index.html) | [✘ Arquivo CSS](css.AULAS/aula.003/assets/css/style.css) |
 
 
