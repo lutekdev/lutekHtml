@@ -21,6 +21,11 @@
 | 001 | A Sintaxe do Css  | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.001/assets/css/style.css) |
 | 002 | Tipo de Seletores | [✘ Arquivo Guia]() | [✓ Arquivo CSS](css.AULAS/MatheusBattisti.Aulas/aula.002/assets/css/style.css) |
 
+# ⭐ Sumário Completo de Exercicios - Matheus Battisti
+| ID  | Titulos                      | GUIA               | .HTML                                                            |
+| --- | ---------------------------- | ------------------ | ---------------------------------------------------------------- |
+| 001 | Ex001 - Mini Projeto Galeria | [✘ Arquivo Guia]() | [✓ Arquivo HTML](html.EX/MatheusBattisti.Ex/aula.001/index.html) |
+
 
 # 📚 Sumário Completo das Aulas - Gustavo Guanabara
 | ID  | Titulos                         | GUIA                                            | .HTML                                            |
