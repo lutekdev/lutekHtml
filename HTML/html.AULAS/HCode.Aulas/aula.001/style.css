@@ -1,0 +1,33 @@
+body {
+    background-color: #4CAF50;
+}
+
+h2 {
+    color: #FFF; /* Change color to desired color */
+    font-size: 28px; /* Change font size to desired size */
+    font-family: "Arial", sans-serif; /* Change font family to desired font */
+}
+
+form {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    /* Replace "Arial" with the desired font */
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+}
